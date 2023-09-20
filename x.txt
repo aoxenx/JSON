@@ -1,7 +1,7 @@
 {
-    "tool_version": "1.0",
-    "version_description": "Initial release of the tool.",
-    "external_download_link": "https://transfer.sh/get/slafQnRKfW/Clash.py",
-    "internal_download_link_1": "https://transfer.sh/get/FqmI5ngGqn/pyarmor_runtime.pyd",
-    "internal_download_link_2": "https://transfer.sh/get/KL0UBfEXiQ/__init__.py"
+    "tool_version": "1.0.0",
+    "version_description": "***",
+    "external_download_link": "https://transfer.sh/get/GLd7JPnVCK/RCL.PY",
+    "internal_download_link_1": "https://transfer.sh/get/eXMx3d6mzI/pyarmor_runtime.pyd",
+    "internal_download_link_2": "https://transfer.sh/get/IVkEwRUnQ7/__init__.py"
 }
